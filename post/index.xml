@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Shao Yiyang&#39;s Portforlio</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Shao Yiyang&#39;s Portforlio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Jul 2015 14:08:29 +0200</lastBuildDate>
+    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>first</title>
+      <link>/post/first/</link>
+      <pubDate>Sat, 18 Jul 2015 14:08:29 +0200</pubDate>
+      
+      <guid>/post/first/</guid>
+      <description>&lt;p&gt;Here is your fist post.
+The img value contain path to the image of this post
+Then place a matching image in static/img - e.g. static/img/dog.png&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>second</title>
+      <link>/post/second/</link>
+      <pubDate>Sat, 18 Jul 2015 14:08:45 +0200</pubDate>
+      
+      <guid>/post/second/</guid>
+      <description>&lt;p&gt;Override the default intro and contact backgrounds by putting images in these files:&lt;/p&gt;
+
+&lt;p&gt;img/intro-bg.jpg
+img/contact-bg.jpg&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>third</title>
+      <link>/post/third/</link>
+      <pubDate>Sat, 18 Jul 2015 14:53:21 +0200</pubDate>
+      
+      <guid>/post/third/</guid>
+      <description>&lt;p&gt;Contact buttons will be automatically created if one or more [[params.social]] is configured in config.toml:&lt;/p&gt;
+
+&lt;p&gt;title parameter sets the text to be displayed on the contact button
+icon parameter sets which Font Awesome icon will be displayed&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
