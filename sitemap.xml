@@ -3,7 +3,28 @@
   
   <url>
     <loc>/</loc>
+    <lastmod>2015-07-18T14:08:35+02:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/about/about/</loc>
+    <lastmod>2015-07-18T14:08:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/first/</loc>
+    <lastmod>2015-07-18T14:08:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/second/</loc>
+    <lastmod>2015-07-18T14:08:45+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/third/</loc>
+    <lastmod>2015-07-18T14:53:21+02:00</lastmod>
   </url>
   
 </urlset>
